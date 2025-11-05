@@ -1,2 +1,1 @@
-Essentials
- Essentials plugin for PowerNukkitX
+Essentials plugin for PowerNukkitX
