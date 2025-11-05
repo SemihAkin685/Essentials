@@ -1,0 +1,7 @@
+com\semihakin685\essentials\commands\FeedCommand.class
+com\semihakin685\essentials\commands\ClearChatCommand.class
+com\semihakin685\essentials\manager\CommandManager.class
+com\semihakin685\essentials\commands\FlyCommand.class
+com\semihakin685\essentials\commands\RulesCommand.class
+com\semihakin685\essentials\commands\HealCommand.class
+com\semihakin685\essentials\Main.class
